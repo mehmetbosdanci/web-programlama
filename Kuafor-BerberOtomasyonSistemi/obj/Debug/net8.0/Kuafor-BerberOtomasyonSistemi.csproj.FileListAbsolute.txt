@@ -32,3 +32,4 @@ C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonS
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\obj\Debug\net8.0\Kuafor-BerberOtomasyonSistemi.pdb
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\obj\Debug\net8.0\Kuafor-BerberOtomasyonSistemi.genruntimeconfig.cache
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\obj\Debug\net8.0\ref\Kuafor-BerberOtomasyonSistemi.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\obj\Debug\net8.0\Kuafor-BerberOtomasyonSistemi.sourcelink.json
