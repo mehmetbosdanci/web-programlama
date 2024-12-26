@@ -99,7 +99,6 @@ C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonS
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
@@ -260,3 +259,16 @@ C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonS
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\obj\Debug\net8.0\Kuafor-BerberOtomasyonSistemi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\obj\Debug\net8.0\Kuafor-B.D77E790A.Up2Date
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\source\repos\Kuafor-BerberOtomasyonSistemi\Kuafor-BerberOtomasyonSistemi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

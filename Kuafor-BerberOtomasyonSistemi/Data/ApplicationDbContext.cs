@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Kuafor_BerberOtomasyonSistemi.Data
 {
-    public class ApplicationDbContext : DbContext//IdentityDbContext<ApplicationUser>
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>//DbContext//
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options) { }
