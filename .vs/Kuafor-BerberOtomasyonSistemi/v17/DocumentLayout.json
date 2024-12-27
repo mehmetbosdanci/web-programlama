@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61151B6D-8714-4E17-AF90-7678CB5FFE90}|Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj|c:\\users\\asus\\source\\repos\\kuafor-berberotomasyonsistemi\\kuafor-berberotomasyonsistemi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61151B6D-8714-4E17-AF90-7678CB5FFE90}|Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj|solutionrelative:kuafor-berberotomasyonsistemi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61151B6D-8714-4E17-AF90-7678CB5FFE90}|Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj|c:\\users\\asus\\source\\repos\\kuafor-berberotomasyonsistemi\\kuafor-berberotomasyonsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61151B6D-8714-4E17-AF90-7678CB5FFE90}|Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj|solutionrelative:kuafor-berberotomasyonsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61151B6D-8714-4E17-AF90-7678CB5FFE90}|Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj|c:\\users\\asus\\source\\repos\\kuafor-berberotomasyonsistemi\\kuafor-berberotomasyonsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{61151B6D-8714-4E17-AF90-7678CB5FFE90}|Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj|solutionrelative:kuafor-berberotomasyonsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -55,19 +63,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:51:08.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Program.cs",
+              "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:46:00.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\appsettings.json",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\appsettings.json",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\appsettings.json",
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-26T11:20:28.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Models\\ApplicationUser.cs",
@@ -75,12 +109,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:43:25.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T13:43:25.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Data\\SeedData.cs",
@@ -88,12 +121,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Data\\SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:41:31.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T13:41:31.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Kuafor-BerberOtomasyonSistemi.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\obj\\Debug\\net8.0\\Kuafor-BerberOtomasyonSistemi.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\obj\\Debug\\net8.0\\Kuafor-BerberOtomasyonSistemi.AssemblyInfo.cs",
@@ -101,12 +133,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\obj\\Debug\\net8.0\\Kuafor-BerberOtomasyonSistemi.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:53:30.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:53:30.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Data\\ApplicationDbContext.cs",
@@ -114,12 +145,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:10:04.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:10:04.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Kuafor-BerberOtomasyonSistemi.csproj",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj",
@@ -127,12 +157,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-24T09:08:28.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:08:28.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Models\\Appointment.cs",
@@ -140,12 +169,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:13:38.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T12:13:38.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Models\\Employee.cs",
@@ -153,12 +181,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T10:19:53.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T10:19:53.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Models\\Service.cs",
@@ -166,12 +193,11 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Models\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T10:47:47.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T10:47:47.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Kuafor-BerberOtomasyonSistemi\\Kuafor-BerberOtomasyonSistemi\\Models\\User.cs",
               "RelativeDocumentMoniker": "Kuafor-BerberOtomasyonSistemi\\Models\\User.cs",
@@ -179,8 +205,7 @@
               "RelativeToolTip": "Kuafor-BerberOtomasyonSistemi\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:08:09.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T10:08:09.781Z"
             }
           ]
         }

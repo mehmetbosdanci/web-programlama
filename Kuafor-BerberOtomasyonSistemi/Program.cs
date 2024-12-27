@@ -1,4 +1,12 @@
+using Kuafor_BerberOtomasyonSistemi.Data;
+using Kuafor_BerberOtomasyonSistemi.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+//var app = builder.Build();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
